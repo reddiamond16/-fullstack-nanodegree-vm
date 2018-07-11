@@ -1,1 +1,1 @@
-# -fullstack-nanodegree-vm
+# fullstack-nanodegree-vm
